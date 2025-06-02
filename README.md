@@ -7,3 +7,5 @@ It's a markdown file in this repository
 
 # Testing out a new branch. 
 How will the merge request look?
+
+# Testing out branching and other commands in Git.
