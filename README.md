@@ -16,3 +16,6 @@ Only time will tell
 
 # This is to test changes made in the remote repo
 Can you see these changes locally?
+
+# Windows Terminal
+Wow there are a lot of ways to control Git versioning whether it is PowerShell, Windows PowerShell, Command Prompt, or Git Bash!
