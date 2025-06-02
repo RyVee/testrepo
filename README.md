@@ -10,3 +10,6 @@ How will the merge request look?
 
 # Testing out branching and other commands in Git.
 It is going well so far. I am able to branch, stage, commit and merge. 
+
+### Does this make the text even smaller?
+Only time will tell
